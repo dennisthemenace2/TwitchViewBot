@@ -1,0 +1,6 @@
+This was coded on stream.
+It is the chat/view bot for twitch. As basis we used the skullbot. 
+It supports the use of a proxy, conncets to the chat, and records the stream. 
+I leave the fake account settings in, please dont do anything stupid with it.
+
+Sadly we didnt figure out how to fake views, but nonetheless we learned some python I hope. Python is not my first language, so bear with me.

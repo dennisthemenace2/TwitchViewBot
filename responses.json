@@ -1,0 +1,12 @@
+{
+  "(hi|hello|sup) (skull)*bot": "GREETINGS HUMAN",
+  "hey bot": { "alias": "hello bot" },
+  "whatcha doing": [
+    "Plotting.",
+    "NONE OF YOUR BUSINESS HUMAN.",
+    "Dreaming of electric sheep."
+    ],
+  "(good)*bye (skull)*bot": "have a lovely day.",
+  "(greetings|salutations) (skull)*bot": "Why so formal?"
+}
+
