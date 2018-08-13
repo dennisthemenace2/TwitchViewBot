@@ -2,6 +2,12 @@
 # -*- coding: utf-8 -*-
 
 # sends advertisement via wispering on top n channel of game X
+# its actually not working because there are limits for whispers
+#    3 per second, up to 100 per minute
+#    40 accounts per day
+#    160 recipients per day
+
+
 
 import socket
 import json
